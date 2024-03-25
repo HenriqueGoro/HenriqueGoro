@@ -14,21 +14,15 @@
 
 ###
 
-<h2 align="left">Trying to learn</h2>
+<h2 align="left">Apps and languages that I like to use</h2>
+
+###
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Apps that I like to use to code</h2>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
