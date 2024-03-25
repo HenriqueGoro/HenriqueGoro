@@ -8,9 +8,11 @@
 
 <h2 align="left">Some things about me</h2>
 
+<img align="left" height="130" src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif"/>
+
 ###
 
-<p align="left">📚 Currently trying to learn Python, but I'm also looking forward learn other programming languages in the future.<br>🎲 My favorite hobbies are playing videogames, watching animes and reading books.<br>🇧🇷 I live in Curitiba, on the state of Paraná, in the south region of the country.</p>
+<p align="left">📚 Currently trying to learn Python, but I'm also looking forward learn other programming languages in the future.<br>🎲 My favorite hobbies are playing videogames, watching animes and reading books.<br></p>
 
 ###
 
