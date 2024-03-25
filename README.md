@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently trying to learn Python, but wanting to learn other programming languages.<br>🎲 My hobbies are playing videogames, watching animes and reading books.</p>
+<p align="left">📚 Currently trying to learn Python, but I'm also looking forward learn other programming languages in the future.<br>🎲 My favorite hobbies are playing videogames, watching animes and reading books.<br>🇧🇷 I live in Curitiba, on the state of Paraná, in the south region of the country.</p>
 
 ###
 
