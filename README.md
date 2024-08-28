@@ -12,6 +12,6 @@
 
 ###
 
-<p align="left">📚 Currently trying to learn Python, but I'm also looking forward to learning other programming languages in the future.<br>🎲 My favorite hobbies are playing videogames, watching animes and reading books.<br></p>
+<p align="left">📚 Currently trying to learn Python and JavaScript, but I'm also looking forward to learning other programming languages in the future.<br>🎲 My favorite hobbies are playing videogames, watching animes and reading books.<br></p>
 
 ###
