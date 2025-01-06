@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi! Meu nome é Henrique, tenho 22 anos e atualmente estou estudando Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">Oi! Meu nome é Henrique, tenho 22 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
